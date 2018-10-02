@@ -1,0 +1,6 @@
+E:\anaconda3\lib\site-packages\gensim\utils.py:1197: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Windows\TEMP\jieba.cache
+Loading model cost 0.812 seconds.
+Prefix dict has been built succesfully.

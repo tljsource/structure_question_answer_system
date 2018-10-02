@@ -1,0 +1,416 @@
+2018-07-06 10:33:41,149 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:34:29,813 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:35:36,166 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:37:00,306 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:38:29,178 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:44:08,240 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:50:04,690 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:50:44,323 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:52:18,112 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:53:11,079 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:55:07,310 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:57:33,379 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:57:52,976 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:58:12,863 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 10:58:46,876 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:01:45,486 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:02:25,659 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:03:43,554 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:04:26,764 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:05:17,165 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:07:59,840 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:08:43,294 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:09:05,160 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:10:42,413 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:13:06,518 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:13:45,666 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:14:20,728 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:17:23,366 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:20:26,585 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:22:14,439 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:26:23,737 - train.log - INFO - Created model with fresh parameters.
+2018-07-06 11:26:51,755 - train.log - INFO - Created model with fresh parameters.
+2018-07-13 19:21:57,333 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:22:42,855 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:23:26,312 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:24:08,825 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:28:13,684 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:28:52,085 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:29:08,165 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:29:16,714 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:30:01,451 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:30:41,858 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:31:03,520 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:31:32,842 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:31:46,352 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:33:01,727 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:33:50,983 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:34:25,012 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:35:09,116 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:36:47,266 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:37:21,362 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:38:25,162 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:38:45,941 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:39:25,976 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:39:50,673 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:40:34,598 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:41:42,863 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:42:09,432 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:42:55,985 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:43:40,030 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:44:08,631 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:44:28,082 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:45:08,414 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:45:34,036 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:46:52,439 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:47:26,457 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:47:51,016 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:48:11,301 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:48:40,429 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:49:37,012 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:49:50,744 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:51:25,767 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:51:40,714 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-13 19:52:02,962 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-14 17:17:08,524 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-14 17:21:03,072 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-14 17:25:32,906 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-14 19:51:55,400 - train.log - INFO - reading wordembedding
+2018-07-14 20:05:46,862 - train.log - INFO - reading wordembedding
+2018-07-14 20:10:27,321 - train.log - INFO - reading wordembedding
+2018-07-14 20:17:26,118 - train.log - INFO - reading wordembedding
+2018-07-14 20:17:59,237 - train.log - INFO - reading wordembedding
+2018-07-14 20:18:21,443 - train.log - INFO - reading word embedding data...
+2018-07-14 20:18:22,289 - train.log - INFO - reading relation to id
+2018-07-14 20:18:22,292 - train.log - INFO - reading train data...
+2018-07-14 20:18:22,369 - train.log - INFO - reading test data ...
+2018-07-14 20:18:22,374 - train.log - INFO - organizing train data
+2018-07-14 20:18:22,388 - train.log - INFO - organizing test data
+2018-07-14 20:18:22,451 - train.log - INFO - reading training data
+2018-07-14 20:18:22,495 - train.log - INFO - seprating train data
+2018-07-14 20:18:22,536 - train.log - INFO - seperating test all data
+2018-07-14 20:18:28,095 - train.log - INFO - reading wordembedding
+2018-07-14 20:19:24,999 - train.log - INFO - reading word embedding data...
+2018-07-14 20:19:25,834 - train.log - INFO - reading relation to id
+2018-07-14 20:19:25,835 - train.log - INFO - reading train data...
+2018-07-14 20:19:25,917 - train.log - INFO - reading test data ...
+2018-07-14 20:19:25,921 - train.log - INFO - organizing train data
+2018-07-14 20:19:25,935 - train.log - INFO - organizing test data
+2018-07-14 20:19:25,998 - train.log - INFO - reading training data
+2018-07-14 20:19:26,043 - train.log - INFO - seprating train data
+2018-07-14 20:19:26,083 - train.log - INFO - seperating test all data
+2018-07-14 20:19:31,719 - train.log - INFO - reading wordembedding
+2018-07-14 20:20:16,397 - train.log - INFO - reading word embedding data...
+2018-07-14 20:20:17,251 - train.log - INFO - reading relation to id
+2018-07-14 20:20:17,253 - train.log - INFO - reading train data...
+2018-07-14 20:20:17,335 - train.log - INFO - reading test data ...
+2018-07-14 20:20:17,339 - train.log - INFO - organizing train data
+2018-07-14 20:20:17,352 - train.log - INFO - organizing test data
+2018-07-14 20:20:17,414 - train.log - INFO - reading training data
+2018-07-14 20:20:17,458 - train.log - INFO - seprating train data
+2018-07-14 20:20:17,498 - train.log - INFO - seperating test all data
+2018-07-14 20:21:53,541 - train.log - INFO - reading word embedding data...
+2018-07-14 20:21:57,165 - train.log - INFO - reading relation to id
+2018-07-14 20:21:57,176 - train.log - INFO - reading train data...
+2018-07-14 20:21:57,608 - train.log - INFO - reading test data ...
+2018-07-14 20:21:57,618 - train.log - INFO - organizing train data
+2018-07-14 20:21:57,695 - train.log - INFO - organizing test data
+2018-07-14 20:21:57,974 - train.log - INFO - reading training data
+2018-07-14 20:21:58,140 - train.log - INFO - seprating train data
+2018-07-14 20:21:58,296 - train.log - INFO - seperating test all data
+2018-07-14 20:26:01,193 - train.log - INFO - reading word embedding data...
+2018-07-14 20:26:02,011 - train.log - INFO - reading relation to id
+2018-07-14 20:26:02,013 - train.log - INFO - reading train data...
+2018-07-14 20:26:02,091 - train.log - INFO - reading test data ...
+2018-07-14 20:26:02,095 - train.log - INFO - organizing train data
+2018-07-14 20:26:02,107 - train.log - INFO - organizing test data
+2018-07-14 20:26:02,161 - train.log - INFO - reading training data
+2018-07-14 20:26:02,198 - train.log - INFO - seprating train data
+2018-07-14 20:26:02,237 - train.log - INFO - seperating test all data
+2018-07-14 20:30:35,087 - train.log - INFO - reading word embedding data...
+2018-07-14 20:30:35,912 - train.log - INFO - reading relation to id
+2018-07-14 20:30:35,913 - train.log - INFO - reading train data...
+2018-07-14 20:30:35,990 - train.log - INFO - reading test data ...
+2018-07-14 20:30:35,994 - train.log - INFO - organizing train data
+2018-07-14 20:30:36,006 - train.log - INFO - organizing test data
+2018-07-14 20:30:36,060 - train.log - INFO - reading training data
+2018-07-14 20:30:36,096 - train.log - INFO - seprating train data
+2018-07-14 20:30:36,132 - train.log - INFO - seperating test all data
+2018-07-14 20:32:05,564 - train.log - INFO - reading word embedding data...
+2018-07-14 20:32:08,925 - train.log - INFO - reading relation to id
+2018-07-14 20:32:08,930 - train.log - INFO - reading train data...
+2018-07-14 20:32:09,502 - train.log - INFO - reading test data ...
+2018-07-14 20:32:09,508 - train.log - INFO - organizing train data
+2018-07-14 20:32:09,524 - train.log - INFO - organizing test data
+2018-07-14 20:32:09,684 - train.log - INFO - reading training data
+2018-07-14 20:32:09,941 - train.log - INFO - seprating train data
+2018-07-14 20:32:10,034 - train.log - INFO - seperating test all data
+2018-07-14 20:32:53,626 - train.log - INFO - reading word embedding data...
+2018-07-14 20:32:56,844 - train.log - INFO - reading relation to id
+2018-07-14 20:32:56,846 - train.log - INFO - reading train data...
+2018-07-14 20:32:57,092 - train.log - INFO - reading test data ...
+2018-07-14 20:32:57,100 - train.log - INFO - organizing train data
+2018-07-14 20:32:57,180 - train.log - INFO - organizing test data
+2018-07-14 20:32:57,537 - train.log - INFO - reading training data
+2018-07-14 20:32:57,650 - train.log - INFO - seprating train data
+2018-07-14 20:32:57,780 - train.log - INFO - seperating test all data
+2018-07-14 20:33:42,143 - train.log - INFO - reading word embedding data...
+2018-07-14 20:33:43,004 - train.log - INFO - reading relation to id
+2018-07-14 20:33:43,005 - train.log - INFO - reading train data...
+2018-07-14 20:33:43,083 - train.log - INFO - reading test data ...
+2018-07-14 20:33:43,087 - train.log - INFO - organizing train data
+2018-07-14 20:33:43,099 - train.log - INFO - organizing test data
+2018-07-14 20:33:43,157 - train.log - INFO - reading training data
+2018-07-14 20:33:43,201 - train.log - INFO - seprating train data
+2018-07-14 20:33:43,245 - train.log - INFO - seperating test all data
+2018-07-14 20:34:13,083 - train.log - INFO - reading word embedding data...
+2018-07-14 20:34:15,439 - train.log - INFO - reading relation to id
+2018-07-14 20:34:15,442 - train.log - INFO - reading train data...
+2018-07-14 20:34:16,106 - train.log - INFO - reading test data ...
+2018-07-14 20:34:16,111 - train.log - INFO - organizing train data
+2018-07-14 20:34:16,215 - train.log - INFO - organizing test data
+2018-07-14 20:34:16,353 - train.log - INFO - reading training data
+2018-07-14 20:34:16,458 - train.log - INFO - seprating train data
+2018-07-14 20:34:16,561 - train.log - INFO - seperating test all data
+2018-07-14 20:34:35,890 - train.log - INFO - reading word embedding data...
+2018-07-14 20:34:38,406 - train.log - INFO - reading relation to id
+2018-07-14 20:34:38,409 - train.log - INFO - reading train data...
+2018-07-14 20:34:38,591 - train.log - INFO - reading test data ...
+2018-07-14 20:34:38,595 - train.log - INFO - organizing train data
+2018-07-14 20:34:38,609 - train.log - INFO - organizing test data
+2018-07-14 20:34:38,739 - train.log - INFO - reading training data
+2018-07-14 20:34:38,824 - train.log - INFO - seprating train data
+2018-07-14 20:34:38,993 - train.log - INFO - seperating test all data
+2018-07-14 20:35:08,512 - train.log - INFO - reading word embedding data...
+2018-07-14 20:35:12,463 - train.log - INFO - reading relation to id
+2018-07-14 20:35:12,464 - train.log - INFO - reading train data...
+2018-07-14 20:35:12,811 - train.log - INFO - reading test data ...
+2018-07-14 20:35:12,816 - train.log - INFO - organizing train data
+2018-07-14 20:35:12,832 - train.log - INFO - organizing test data
+2018-07-14 20:35:13,025 - train.log - INFO - reading training data
+2018-07-14 20:35:13,310 - train.log - INFO - seprating train data
+2018-07-14 20:35:13,439 - train.log - INFO - seperating test all data
+2018-07-14 20:35:47,680 - train.log - INFO - reading word embedding data...
+2018-07-14 20:35:51,232 - train.log - INFO - reading relation to id
+2018-07-14 20:35:51,233 - train.log - INFO - reading train data...
+2018-07-14 20:35:51,500 - train.log - INFO - reading test data ...
+2018-07-14 20:35:51,549 - train.log - INFO - organizing train data
+2018-07-14 20:35:51,608 - train.log - INFO - organizing test data
+2018-07-14 20:35:51,742 - train.log - INFO - reading training data
+2018-07-14 20:35:51,785 - train.log - INFO - seprating train data
+2018-07-14 20:35:51,965 - train.log - INFO - seperating test all data
+2018-07-14 20:41:03,564 - train.log - INFO - reading word embedding data...
+2018-07-14 20:41:11,583 - train.log - INFO - reading relation to id
+2018-07-14 20:41:11,584 - train.log - INFO - reading train data...
+2018-07-14 20:41:12,247 - train.log - INFO - reading test data ...
+2018-07-14 20:41:12,271 - train.log - INFO - organizing train data
+2018-07-14 20:41:12,487 - train.log - INFO - organizing test data
+2018-07-14 20:41:13,576 - train.log - INFO - reading training data
+2018-07-14 20:41:14,485 - train.log - INFO - seprating train data
+2018-07-14 20:41:15,015 - train.log - INFO - seperating test all data
+2018-07-14 20:44:31,712 - train.log - INFO - reading word embedding data...
+2018-07-14 20:44:36,013 - train.log - INFO - reading relation to id
+2018-07-14 20:44:36,015 - train.log - INFO - reading train data...
+2018-07-14 20:44:36,406 - train.log - INFO - reading test data ...
+2018-07-14 20:44:36,432 - train.log - INFO - organizing train data
+2018-07-14 20:44:36,535 - train.log - INFO - organizing test data
+2018-07-14 20:44:36,854 - train.log - INFO - reading training data
+2018-07-14 20:44:37,077 - train.log - INFO - seprating train data
+2018-07-14 20:44:37,306 - train.log - INFO - seperating test all data
+2018-07-14 20:45:51,534 - train.log - INFO - reading word embedding data...
+2018-07-14 20:45:55,121 - train.log - INFO - reading relation to id
+2018-07-14 20:45:55,150 - train.log - INFO - reading train data...
+2018-07-14 20:45:55,399 - train.log - INFO - reading test data ...
+2018-07-14 20:45:55,412 - train.log - INFO - organizing train data
+2018-07-14 20:45:55,459 - train.log - INFO - organizing test data
+2018-07-14 20:45:55,760 - train.log - INFO - reading training data
+2018-07-14 20:45:55,962 - train.log - INFO - seprating train data
+2018-07-14 20:45:56,282 - train.log - INFO - seperating test all data
+2018-07-14 20:54:36,878 - train.log - INFO - reading word embedding data...
+2018-07-14 20:54:37,695 - train.log - INFO - reading relation to id
+2018-07-14 20:54:37,696 - train.log - INFO - reading train data...
+2018-07-14 20:54:37,775 - train.log - INFO - reading test data ...
+2018-07-14 20:54:37,778 - train.log - INFO - organizing train data
+2018-07-14 20:54:37,791 - train.log - INFO - organizing test data
+2018-07-14 20:54:37,845 - train.log - INFO - reading training data
+2018-07-14 20:54:37,884 - train.log - INFO - seprating train data
+2018-07-14 20:54:37,921 - train.log - INFO - seperating test all data
+2018-07-14 20:58:07,783 - train.log - INFO - reading word embedding data...
+2018-07-14 20:58:08,572 - train.log - INFO - reading relation to id
+2018-07-14 20:58:08,574 - train.log - INFO - reading train data...
+2018-07-14 20:58:08,649 - train.log - INFO - reading test data ...
+2018-07-14 20:58:08,654 - train.log - INFO - organizing train data
+2018-07-14 20:58:08,666 - train.log - INFO - organizing test data
+2018-07-14 20:58:08,722 - train.log - INFO - reading training data
+2018-07-14 20:58:08,763 - train.log - INFO - seprating train data
+2018-07-14 20:58:08,800 - train.log - INFO - seperating test all data
+2018-07-14 21:03:47,488 - train.log - INFO - reading word embedding data...
+2018-07-14 21:03:49,993 - train.log - INFO - reading relation to id
+2018-07-14 21:03:49,998 - train.log - INFO - reading train data...
+2018-07-14 21:03:50,227 - train.log - INFO - reading test data ...
+2018-07-14 21:03:50,234 - train.log - INFO - organizing train data
+2018-07-14 21:03:50,272 - train.log - INFO - organizing test data
+2018-07-14 21:03:50,360 - train.log - INFO - reading training data
+2018-07-14 21:03:50,448 - train.log - INFO - seprating train data
+2018-07-14 21:03:50,532 - train.log - INFO - seperating test all data
+2018-07-14 21:10:14,614 - train.log - INFO - reading word embedding data...
+2018-07-14 21:10:16,921 - train.log - INFO - reading relation to id
+2018-07-14 21:10:16,923 - train.log - INFO - reading train data...
+2018-07-14 21:10:17,090 - train.log - INFO - reading test data ...
+2018-07-14 21:10:17,096 - train.log - INFO - organizing train data
+2018-07-14 21:10:17,124 - train.log - INFO - organizing test data
+2018-07-14 21:10:17,344 - train.log - INFO - reading training data
+2018-07-14 21:10:17,429 - train.log - INFO - seprating train data
+2018-07-14 21:10:17,567 - train.log - INFO - seperating test all data
+2018-07-14 21:15:43,314 - train.log - INFO - reading word embedding data...
+2018-07-14 21:15:45,245 - train.log - INFO - reading relation to id
+2018-07-14 21:15:45,247 - train.log - INFO - reading train data...
+2018-07-14 21:15:45,470 - train.log - INFO - reading test data ...
+2018-07-14 21:15:45,475 - train.log - INFO - organizing train data
+2018-07-14 21:15:45,523 - train.log - INFO - organizing test data
+2018-07-14 21:15:45,650 - train.log - INFO - reading training data
+2018-07-14 21:15:45,721 - train.log - INFO - seprating train data
+2018-07-14 21:15:45,807 - train.log - INFO - seperating test all data
+2018-07-14 21:22:26,807 - train.log - INFO - reading word embedding data...
+2018-07-14 21:22:29,279 - train.log - INFO - reading relation to id
+2018-07-14 21:22:29,281 - train.log - INFO - reading train data...
+2018-07-14 21:22:29,511 - train.log - INFO - reading test data ...
+2018-07-14 21:22:29,515 - train.log - INFO - organizing train data
+2018-07-14 21:22:29,545 - train.log - INFO - organizing test data
+2018-07-14 21:22:29,711 - train.log - INFO - reading training data
+2018-07-14 21:22:29,792 - train.log - INFO - seprating train data
+2018-07-14 21:22:29,886 - train.log - INFO - seperating test all data
+2018-07-14 21:22:53,845 - train.log - INFO - reading word embedding data...
+2018-07-14 21:22:56,852 - train.log - INFO - reading relation to id
+2018-07-14 21:22:56,854 - train.log - INFO - reading train data...
+2018-07-14 21:22:57,288 - train.log - INFO - reading test data ...
+2018-07-14 21:22:57,327 - train.log - INFO - organizing train data
+2018-07-14 21:22:57,380 - train.log - INFO - organizing test data
+2018-07-14 21:22:57,688 - train.log - INFO - reading training data
+2018-07-14 21:22:57,824 - train.log - INFO - seprating train data
+2018-07-14 21:22:57,959 - train.log - INFO - seperating test all data
+2018-07-14 21:26:06,856 - train.log - INFO - reading word embedding data...
+2018-07-14 21:26:13,270 - train.log - INFO - reading relation to id
+2018-07-14 21:26:13,292 - train.log - INFO - reading train data...
+2018-07-14 21:26:13,977 - train.log - INFO - reading test data ...
+2018-07-14 21:26:14,103 - train.log - INFO - organizing train data
+2018-07-14 21:26:14,120 - train.log - INFO - organizing test data
+2018-07-14 21:26:14,498 - train.log - INFO - reading training data
+2018-07-14 21:26:14,640 - train.log - INFO - seprating train data
+2018-07-14 21:26:14,900 - train.log - INFO - seperating test all data
+2018-07-14 21:27:07,982 - train.log - INFO - reading word embedding data...
+2018-07-14 21:27:13,661 - train.log - INFO - reading relation to id
+2018-07-14 21:27:13,662 - train.log - INFO - reading train data...
+2018-07-14 21:27:14,202 - train.log - INFO - reading test data ...
+2018-07-14 21:27:14,253 - train.log - INFO - organizing train data
+2018-07-14 21:27:14,423 - train.log - INFO - organizing test data
+2018-07-14 21:27:14,721 - train.log - INFO - reading training data
+2018-07-14 21:27:15,013 - train.log - INFO - seprating train data
+2018-07-14 21:27:15,183 - train.log - INFO - seperating test all data
+2018-07-14 21:31:42,870 - train.log - INFO - reading word embedding data...
+2018-07-14 21:31:50,615 - train.log - INFO - reading relation to id
+2018-07-14 21:31:50,616 - train.log - INFO - reading train data...
+2018-07-14 21:31:51,080 - train.log - INFO - reading test data ...
+2018-07-14 21:31:51,100 - train.log - INFO - organizing train data
+2018-07-14 21:31:51,204 - train.log - INFO - organizing test data
+2018-07-14 21:31:51,960 - train.log - INFO - reading training data
+2018-07-14 21:31:52,405 - train.log - INFO - seprating train data
+2018-07-14 21:31:52,671 - train.log - INFO - seperating test all data
+2018-07-14 21:41:27,814 - train.log - INFO - reading word embedding data...
+2018-07-14 21:41:31,007 - train.log - INFO - reading relation to id
+2018-07-14 21:41:31,011 - train.log - INFO - reading train data...
+2018-07-14 21:41:31,122 - train.log - INFO - reading test data ...
+2018-07-14 21:41:31,128 - train.log - INFO - organizing train data
+2018-07-14 21:41:31,153 - train.log - INFO - organizing test data
+2018-07-14 21:41:31,237 - train.log - INFO - reading training data
+2018-07-14 21:41:31,272 - train.log - INFO - seprating train data
+2018-07-14 21:41:31,355 - train.log - INFO - seperating test all data
+2018-07-14 21:54:32,478 - train.log - INFO - reading word embedding data...
+2018-07-14 21:54:33,309 - train.log - INFO - reading relation to id
+2018-07-14 21:54:33,310 - train.log - INFO - reading train data...
+2018-07-14 21:54:33,384 - train.log - INFO - reading test data ...
+2018-07-14 21:54:33,388 - train.log - INFO - organizing train data
+2018-07-14 21:54:33,401 - train.log - INFO - organizing test data
+2018-07-14 21:54:33,450 - train.log - INFO - reading training data
+2018-07-14 21:54:33,487 - train.log - INFO - seprating train data
+2018-07-14 21:54:33,526 - train.log - INFO - seperating test all data
+2018-07-14 21:57:01,106 - train.log - INFO - reading word embedding data...
+2018-07-14 21:57:04,698 - train.log - INFO - reading relation to id
+2018-07-14 21:57:04,700 - train.log - INFO - reading train data...
+2018-07-14 21:57:05,140 - train.log - INFO - reading test data ...
+2018-07-14 21:57:05,145 - train.log - INFO - organizing train data
+2018-07-14 21:57:05,171 - train.log - INFO - organizing test data
+2018-07-14 21:57:05,373 - train.log - INFO - reading training data
+2018-07-14 21:57:05,650 - train.log - INFO - seprating train data
+2018-07-14 21:57:05,715 - train.log - INFO - seperating test all data
+2018-07-15 14:10:53,456 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:16:04,217 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:16:12,054 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:16:16,372 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:16:59,455 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:18:17,247 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:47:21,126 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:47:55,799 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:51:23,170 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:52:40,666 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 14:58:07,032 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 15:02:59,489 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 15:16:12,795 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 15:16:36,669 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 15:25:25,682 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:21:57,626 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:22:44,945 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:28:16,677 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:32:34,574 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:34:08,790 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:34:50,406 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:41:42,804 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:42:40,853 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:43:55,389 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:44:40,548 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:45:36,652 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 19:59:36,605 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:02:56,629 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:03:56,699 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:05:13,514 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:08:52,853 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:09:51,984 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:12:04,256 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:13:04,220 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:15:03,510 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:17:31,162 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:23:29,655 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:24:42,092 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:27:13,123 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:28:12,991 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:28:50,144 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:37:10,196 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:39:12,564 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:45:28,250 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:54:13,911 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:54:56,258 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:55:31,426 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:56:41,407 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:57:13,877 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-15 20:57:35,642 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 11:42:43,172 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 11:45:38,584 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 11:45:56,841 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 11:46:10,996 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 11:48:25,118 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 11:49:31,884 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 11:50:05,667 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 14:22:00,450 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 14:22:55,403 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 14:28:40,822 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-16 14:41:18,614 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-17 14:39:49,443 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-17 14:40:07,572 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-17 14:40:35,921 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-20 16:11:52,718 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-20 16:12:28,353 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-20 16:13:40,127 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-20 17:05:12,068 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-20 17:06:03,663 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-20 20:22:52,233 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
+2018-07-20 20:23:55,174 - train.log - INFO - Reading model parameters from knowledge\ckpt_bilstm\ner.ckpt
